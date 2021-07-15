@@ -8,4 +8,5 @@
 sudo apt install libevdev-dev
 sudo apt install libudev-dev
 make
+sudo make install
 ```
